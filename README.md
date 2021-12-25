@@ -4,4 +4,10 @@ Projeto educacional sobre desenvolvimento de software aplicando as melhores prat
     # Martin, Robert C. -  Código Limpo. 
 
 
-    ##### Lembre-se sempre haverá um código: Segundo Robert C Martin, "código é a linguagem na qual expressamos nossos requisitos.  
+    ##### Lembre-se sempre haverá um código: Segundo Robert C Martin, "código é a linguagem na qual expressamos nossos requisitos. 
+
+    ##### O custo de ter um código confuso: 
+      - Quanto maior a confusão no código menor a produtividade do time.
+      - O que poderia levar horas de trabalho, leva semanas, devido a confusão do código.
+      - Hávera um momento onde o time ve a necesidade de começar do zero.
+       
