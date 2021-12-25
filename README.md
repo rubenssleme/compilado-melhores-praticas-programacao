@@ -13,5 +13,5 @@ Projeto educacional sobre desenvolvimento de software aplicando as melhores prat
    - Hávera um momento onde o time ve a necesidade de começar do zero.
 
 
- [código Limpo --->](https://link)
+ [código Limpo --->](CODIGO-LIMPO.md)
        
